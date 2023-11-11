@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Homework7
+//  Dz1
 //
-//  Created by qeqwe on 11.11.2023.
+//  Created by qeqwe on 10.11.2023.
 //
 
 import UIKit
